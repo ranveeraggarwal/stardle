@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stardle</string>
+    <string name="stardle">Stardle</string>
+    <string name="all_the_dles_in_one">All the *dles in one!</string>
+    <string name="wordle">Wordle</string>
+    <string name="quordle">Quordle</string>
+    <string name="worldle">Worldle</string>
+    <string name="survivle">Survivle</string>
+    <string name="stats">Stats</string>
+</resources>

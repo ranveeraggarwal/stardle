@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="start_wordle" type="id"/>
+    <item name="start_quordle" type="id"/>
+    <item name="start_worldle" type="id"/>
+    <item name="start_survivle" type="id"/>
+</resources>
